@@ -12,23 +12,13 @@ This project was built using SQL and Power BI. The main purpose was to take raw 
 
 <!-- Add your first dashboard image here -->
 
-![Credit Card Transaction Report](Images/credit-card-transaction-report.png)
+![Credit Card Transaction Report](https://github.com/ds-raman/Credit_Card_Financial_Analytics/blob/f7cfe8de25e19eaab1611595f1757175fb623046/Image/Credit_Card_Transaction_Report.png)
 
 ### Credit Card Customer Report
 
 <!-- Add your second dashboard image here -->
 
 ![Credit Card Customer Report](https://github.com/ds-raman/Credit_Card_Financial_Analytics/blob/65a36b2ea60282db36f709f5fbc5181919c6e482/Image/Credit_Card_Customer_Report.png)
-
----
-
-## LinkedIn Post
-
-I have also shared my project journey and learning experience on LinkedIn.
-
-[View LinkedIn Post](YOUR_LINKEDIN_POST_URL)
-
----
 
 ## About the Project
 
