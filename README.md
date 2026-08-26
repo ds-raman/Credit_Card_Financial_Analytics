@@ -18,7 +18,7 @@ This project was built using SQL and Power BI. The main purpose was to take raw 
 
 <!-- Add your second dashboard image here -->
 
-![Credit Card Customer Report](Images/https://github.com/ds-raman/Credit_Card_Financial_Analytics/blob/65a36b2ea60282db36f709f5fbc5181919c6e482/Image/Credit_Card_Customer_Report.png)
+![Credit Card Customer Report](https://github.com/ds-raman/Credit_Card_Financial_Analytics/blob/65a36b2ea60282db36f709f5fbc5181919c6e482/Image/Credit_Card_Customer_Report.png)
 
 ---
 
